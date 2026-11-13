@@ -1,0 +1,6 @@
+# IBM Skills Network
+.theia/
+
+# Temporary files
+*.tmp
+*.log
